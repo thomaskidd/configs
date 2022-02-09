@@ -1,0 +1,7 @@
+# Window size
+#resize -s 38 128 > /dev/null
+
+# Aliases
+alias vitis="/tools/Xilinx/Vitis/2020.2/bin/vitis"
+
+alias python=python3
